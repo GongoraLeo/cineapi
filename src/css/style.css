@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card{
+    padding: 0.5em;
+}
+
+.card img{
+    max-width: 130px; 
+    max-height:200px;
+}
+.card h2{
+    font-size: 1em;
+    max-width: 130px; 
+}
+body{
+    padding: 1em;
+}
+
+.fl{
+    display: flex;
+    flex-wrap: wrap;
+}
+h1{
+    margin: 1em;
+}
+form{
+    margin-bottom: 1em;
+}
